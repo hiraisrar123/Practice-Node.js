@@ -1,0 +1,28 @@
+{
+  "name": "practice-node",
+  "version": "1.0.0",
+  "description": "Node JS Tutorial 2026",
+  "keywords": [
+    "Hira",
+    "Israr"
+  ],
+  "homepage": "https://github.com/hiraisrar123/Practice-Node.js#readme",
+  "bugs": {
+    "url": "https://github.com/hiraisrar123/Practice-Node.js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiraisrar123/Practice-Node.js.git"
+  },
+  "license": "ISC",
+  "author": "Hira",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.15.0"
+  }
+}
