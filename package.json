@@ -20,7 +20,8 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node basicAPI.js",
+    "dev": "nodemon basicAPI.js"
   },
   "dependencies": {
     "axios": "^1.15.0"
